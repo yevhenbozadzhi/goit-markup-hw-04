@@ -1,4 +1,2 @@
-# my-first-repository
-
-Fist project
-This is my first project
+# goit-markup-hw-01
+This is my first homework
