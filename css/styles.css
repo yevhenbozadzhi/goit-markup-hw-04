@@ -288,18 +288,20 @@ display: flex;
     letter-spacing: 0.02em;
     text-align: center;
 }
-.team-icon{
-    display: flex;
-
-}
-#icon-instagram{
-    background-color: #404bbf;
+.team-icon-list{
+display: flex;  
+    gap: 24px;
 }
 
+.team-icons{
+background-color: #404bbf;
+    padding: 12px 12px;
+    border-radius: 50%;
+    }
 
 /* section 4 */
 .portfolio{
-    padding: 120px 0 120px 0;
+    padding:120px 0 ;
 }
 .portfolio-container{
     border-bottom: 3px solid #fff ;
